@@ -1,4 +1,4 @@
-name: Deploy SG Config
+name: Deploy SG Config 
 
 # Controls when the action will run. n shit
 on:
