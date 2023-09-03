@@ -1,4 +1,4 @@
-name: Deploy Leroy
+name: Deploy SG Config
 
 # Controls when the action will run. n shit
 on:
