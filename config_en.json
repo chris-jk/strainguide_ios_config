@@ -11,7 +11,7 @@
   },
   "HorizonLayout": [
     {
-      "layout": "_bannerImage",
+      "layout": "__bannerImage",
       "isSlider": true,
       "marginTop": 0.0,
       "marginBottom": 0.0,
