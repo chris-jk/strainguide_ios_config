@@ -2,7 +2,7 @@
   "affilite_button": {
     "affiliateLink": "?a_aid=dojafarm&chan=button_strainguide&data1=app",
     "url": "https://www.seedsman.com/us-en/search/",
-    "show": false
+    "show": true
   },
   "mantisAds": {
     "show": true,
@@ -111,7 +111,7 @@
     {
       "layout": "bannerMantisAds",
       "show": true,
-      "code": "<div style=\"text-align: center\" data-mantis-zone=\"app388\"></div>\n<script type=\"text/javascript\" data-cfasync=\"false\">\nvar mantis = mantis || [];\nmantis.push(['display', 'load', {\nproperty: '649cacb4c69fa0000fe67548'\n}]);\n</script>\n<script type=\"text/javascript\" data-cfasync=\"false\"\nsrc=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script>",
+      "code": "<script type=\"text/javascript\" data-cfasync=\"false\">\n\tvar mantis = mantis || [];\n\tmantis.push(['display', 'load', {\n\t\tproperty: '649cacb4c69fa0000fe67548',\n\t\turlPrefix: '%%CLICK_URL_UNESC%%'\n\t\t\n\t}]);\n</script>\n\n<script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script>\n\n<div data-mantis-zone=\"dfpad\"></div>",
       "bannerHeight": 0.15
     },
     {
@@ -141,7 +141,7 @@
     {
       "layout": "bannerMantisAds",
       "show": false,
-      "code": "<body><div data-mantis-zone=\"app388\"></div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || [];mantis.push(['display', 'load', {property: '649cacb4c69fa0000fe67548'}]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script></body>",
+      "code": "<script type=\"text/javascript\" data-cfasync=\"false\">\n\tvar mantis = mantis || [];\n\tmantis.push(['display', 'load', {\n\t\tproperty: '649cacb4c69fa0000fe67548',\n\t\turlPrefix: '%%CLICK_URL_UNESC%%'\n\t\t\n\t}]);\n</script>\n\n<script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script>\n\n<div data-mantis-zone=\"dfpad\"></div>",
       "bannerHeight": 0.15
     },
     {
