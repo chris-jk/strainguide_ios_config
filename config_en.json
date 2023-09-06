@@ -43,7 +43,13 @@
     {
       "layout": "bannerMantisAds",
       "show": true,
-      "code": "<script type=\"text/javascript\" data-cfasync=\"false\">\n\tvar mantis = mantis || [];\n\tmantis.push(['display', 'load', {\n\t\tproperty: '649cacb4c69fa0000fe67548',\n\t\turlPrefix: '%%CLICK_URL_UNESC%%'\n\t\t\n\t}]);\n</script>\n\n<script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script>\n\n<div data-mantis-zone=\"dfpad\"></div>",
+      "code": "<div style=\"text-align: center\" data-mantis-zone=\"ios_1\" data-mantis-refresh=\"true\"></div>\n<script type=\"text/javascript\" data-cfasync=\"false\">\nvar mantis = mantis || [];\nmantis.push(['display', 'load', {\nproperty: '649cacb4c69fa0000fe67548'\n}]);\n</script>\n<script type=\"text/javascript\" data-cfasync=\"false\"\nsrc=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async> mantis.push(['display', 'refresh']);</script>",
+      "bannerHeight": 0.15
+    },
+    {
+      "layout": "bannerMantisAds",
+      "show": true,
+      "code": "<script type=\"text/javascript\" data-cfasync=\"false\">\n\tvar mantis = mantis || [];\n\tmantis.push(['display', 'load', {\n\t\tproperty: '649cacb4c69fa0000fe67548',\n\t\turlPrefix: '%%CLICK_URL_UNESC%%'\n\t\t\n\t}]);\n</script>\n\n<script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script>\n\n<div data-mantis-zone=\"dfp_test_1\"></div>",
       "bannerHeight": 0.15
     },
     {
