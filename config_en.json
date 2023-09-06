@@ -33,18 +33,18 @@
       "pos": 100
     },
     {
+      "layout": "bannerMantisAds",
+      "show": true,
+      "code": "<div style=\"text-align: center\" data-mantis-zone=\"ios_1\" data-mantis-refresh=\"true\"></div>\n<script type=\"text/javascript\" data-cfasync=\"false\">\nvar mantis = mantis || [];\nmantis.push(['display', 'load', {\nproperty: '649cacb4c69fa0000fe67548'\n}]);\n</script>\n<script type=\"text/javascript\" data-cfasync=\"false\"\nsrc=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async> mantis.push(['display', 'refresh']);</script>",
+      "bannerHeight": 0.15
+    },
+    {
       "name": "New Strains",
       "image": "",
       "layout": "sliderItem",
       "category": 2,
       "isSnapping": false,
       "pos": 100
-    },
-    {
-      "layout": "bannerMantisAds",
-      "show": true,
-      "code": "<div style=\"text-align: center\" data-mantis-zone=\"ios_1\" data-mantis-refresh=\"true\"></div>\n<script type=\"text/javascript\" data-cfasync=\"false\">\nvar mantis = mantis || [];\nmantis.push(['display', 'load', {\nproperty: '649cacb4c69fa0000fe67548'\n}]);\n</script>\n<script type=\"text/javascript\" data-cfasync=\"false\"\nsrc=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async> mantis.push(['display', 'refresh']);</script>",
-      "bannerHeight": 0.15
     },
     {
       "layout": "bannerMantisAds",
