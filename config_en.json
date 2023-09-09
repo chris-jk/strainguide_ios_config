@@ -159,20 +159,6 @@
       "category": 9,
       "type": "imageOnTheLeft",
       "imageBorder": 10.0
-    },
-    {
-      "name": "Products & Reviews",
-      "layout": "sliderList",
-      "category": 945,
-      "type": "imageOnTheRight",
-      "imageBorder": 10.0
-    },
-    {
-      "name": "Cannabis News",
-      "layout": "sliderList",
-      "category": 10,
-      "type": "imageOnTheLeft",
-      "imageBorder": 10.0
     }
   ],
   "Setting": {
