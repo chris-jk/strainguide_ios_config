@@ -43,7 +43,7 @@
     {
       "layout": "bannerMantisAds",
       "show": true,
-      "code": "<script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || [];mantis.push(['display', 'load', {property: '649cacb4c69fa0000fe67548',urlPrefix: '%%CLICK_URL_UNESC%%'}]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script><div data-mantis-zone=\"dfp_ios_1\"></div>",
+      "code": "<html><head><title>DFP Ad Unit dfp_ios_1</title><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /></head><body><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || [];mantis.push(['display','load',{property: '649cacb4c69fa0000fe67548',urlPrefix: '%%CLICK_URL_UNESC%%',},]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script><div data-mantis-zone=\"dfp_ios_1\"></div></body></html>",
       "bannerHeight": 0.15
     },
     {
@@ -57,7 +57,7 @@
     {
       "layout": "bannerMantisAds",
       "show": true,
-      "code": "<div data-mantis-zone=\"ios_1\"></div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || []; mantis.push(['display', 'load', {property: '649cacb4c69fa0000fe67548'}]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script>",
+      "code": "<html><head><title>Regular Ad Unit ios_1</title><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /></head><body><div data-mantis-zone=\"ios_1\"></div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || [];mantis.push(['display','load',{property: '649cacb4c69fa0000fe67548',},]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script></body></html>",
       "bannerHeight": 0.15
     },
     {
