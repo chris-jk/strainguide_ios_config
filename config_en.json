@@ -11,7 +11,7 @@
   },
   "HorizonLayout": [
     {
-      "layout": "__bannerImage",
+      "layout": "bannerImage",
       "isSlider": true,
       "marginTop": 0.0,
       "marginBottom": 0.0,
@@ -21,9 +21,9 @@
       "fit": "cover",
       "items": [
         {
-          "url": "https://premiumcultivars.com/20-off/?ref=strainguide&utm_campaign=20off&utm_id=goaffpro&utm_medium=display&utm_source=affiliates",
+          "url": "https://lnk.strainguide.app/ncEdK",
           "padding": 0.5,
-          "image": "https://media.goaffpro.com/7067928/1686047316685.jpg?auto_optimize=medium&width=800"
+          "image": "https://lnk.strainguide.app/banner-image"
         }
       ],
       "autoPlay": true,
@@ -149,7 +149,7 @@
     {
       "layout": "bannerMantisAds",
       "show": true,
-      "code": "<div id=\"recommended\"></div><script type=\"text/javascript\">var mantis = mantis || []; mantis.push(['recommend', 'load', {property: '649cacb4c69fa0000fe67548', render: 'recommended', css: 'https://assets.mantisadnetwork.com/recommend.3columns.css'}]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/recommend.min.js\" async></script>",
+      "code": "<html><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"/></head><body><div id=\"recommended\"></div><script type=\"text/javascript\">  var mantis = mantis || [];mantis.push(['recommend', 'load', {    property: '649cacb4c69fa0000fe67548',    render: 'recommended',    css: 'https://assets.mantisadnetwork.com/recommend.3columns.css'  }]);mantis.push(['display', 'refresh']);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/recommend.min.js\" async></script></body></html>",
       "bannerHeight": 0.45
     },
     {
