@@ -55,6 +55,12 @@
       "pos": 200
     },
     {
+      "layout": "bannerMantisAds",
+      "show": true,
+      "code": "<div data-mantis-zone=\"ios_1\"></div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || []; mantis.push(['display', 'load', {property: '649cacb4c69fa0000fe67548'}]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script>",
+      "bannerHeight": 0.15
+    },
+    {
       "name": "Strain for Relaxation",
       "image": "",
       "layout": "threeColumn",
@@ -77,12 +83,6 @@
       "category": 966,
       "isSnapping": false,
       "pos": 500
-    },
-    {
-      "layout": "bannerMantisAds",
-      "show": true,
-      "code": "<div data-mantis-zone=\"ios_1\"></div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || []; mantis.push(['display', 'load', {property: '649cacb4c69fa0000fe67548'}]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script>",
-      "bannerHeight": 0.15
     },
     {
       "name": "May help with Depression",
