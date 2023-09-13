@@ -11,7 +11,7 @@
   },
   "HorizonLayout": [
     {
-      "layout": "bannerImage",
+      "layout": "_bannerImage",
       "isSlider": true,
       "marginTop": 0.0,
       "marginBottom": 0.0,
@@ -39,12 +39,6 @@
       "category": 2,
       "isSnapping": false,
       "pos": 100
-    },
-    {
-      "layout": "bannerMantisAds",
-      "show": true,
-      "code": "<html><head><title>Regular Ad Unit ios_1</title><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /><style>body{margin:0;height:100vh;display:flex;justify-content:center;align-items:center;font-family:Arial,sans-serif;}.centered-content{text-align:center;width:100%;}</style></head><body><div class=\"centered-content\"><div data-mantis-zone=\"ios_1\">ios_1 Dev</div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis=mantis||[];mantis.push(['display','load',{property:'649cacb4c69fa0000fe67548',},]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script></div></body></html>",
-      "bannerHeight": 0.15
     },
     {
       "name": "Popular Strains",
@@ -183,12 +177,6 @@
       "category": 9,
       "type": "imageOnTheLeft",
       "imageBorder": 10.0
-    },
-    {
-      "layout": "bannerMantisAds",
-      "show": true,
-      "code": "<html><head><title>Regular Ad Unit ios_1</title><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /><style>body{margin:0;height:100vh;display:flex;justify-content:center;align-items:center;font-family:Arial,sans-serif;}.centered-content{text-align:center;width:100%;}</style></head><body><div class=\"centered-content\"><div data-mantis-zone=\"ios_1\">ios_1 Dev</div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis=mantis||[];mantis.push(['display','load',{property:'649cacb4c69fa0000fe67548',},]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script></div></body></html>",
-      "bannerHeight": 0.15
     }
   ],
   "Setting": {
