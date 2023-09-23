@@ -790,7 +790,6 @@
         "darkTheme",
         "notifications",
         "web-contact",
-        "web-ai-bot",
         "web-strain-bot",
         "rating"
       ],
@@ -804,7 +803,7 @@
           "iconFontFamily": "CupertinoIcons",
           "title": "Suggest a Strain"
         },
-        "web-ai-bot": {
+        "_web-ai-bot": {
           "webViewMode": true,
           "webUrl": "https://strainguide.app/chat/",
           "icon": "adb_rounded",
@@ -932,7 +931,7 @@
       "marginBottom": 10,
       "boxFit": "cover"
     },
-    "enable": true,
+    "enable": false,
     "logo": "https://i.imgur.com/ftxZ2UK.png",
     "subDrawerItem": {
       "web-4a64wkctxl": {
