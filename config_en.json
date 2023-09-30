@@ -790,6 +790,7 @@
         "darkTheme",
         "notifications",
         "web-contact",
+        "web-ai-bot",
         "web-strain-bot",
         "rating"
       ],
@@ -803,7 +804,7 @@
           "iconFontFamily": "CupertinoIcons",
           "title": "Suggest a Strain"
         },
-        "_web-ai-bot": {
+        "web-ai-bot": {
           "webViewMode": true,
           "webUrl": "https://strainguide.app/chat/",
           "icon": "adb_rounded",
@@ -841,6 +842,30 @@
   ],
   "AppBar": {
     "items": [
+      {
+        "type": "icon",
+        "action": "menu",
+        "pos": 100,
+        "textOpacity": 0.5,
+        "alignment": "center",
+        "fontSize": 16.0,
+        "fontFamily": "MaterialIcons",
+        "fontWeight": "400",
+        "icon": "smart_toy_outlined",
+        "iconSize": 35.0,
+        "size": 40.0,
+        "radius": 24.0,
+        "iconColor": "ff02ae9e",
+        "marginLeft": 20.0,
+        "marginRight": 8.0,
+        "marginTop": 4.0,
+        "marginBottom": 4.0,
+        "paddingLeft": 4.0,
+        "paddingRight": 4.0,
+        "paddingTop": 4.0,
+        "paddingBottom": 4.0,
+        "key": "gm53p4rkx7"
+      },
       {
         "action": "search",
         "paddingRight": 16,
@@ -907,7 +932,7 @@
       "marginBottom": 10,
       "boxFit": "cover"
     },
-    "enable": false,
+    "enable": true,
     "logo": "https://i.imgur.com/ftxZ2UK.png",
     "subDrawerItem": {
       "web-4a64wkctxl": {
