@@ -11,7 +11,7 @@
   },
   "HorizonLayout": [
     {
-      "layout": "_bannerImage",
+      "layout": "bannerImage",
       "isSlider": true,
       "marginTop": 0.0,
       "marginBottom": 0.0,
@@ -21,9 +21,9 @@
       "fit": "cover",
       "items": [
         {
-          "url": "https://lnk.strainguide.app/ncEdK",
+          "url": "https://lnk.strainguide.app/seeds",
           "padding": 0.5,
-          "image": "https://lnk.strainguide.app/banner-image"
+          "image": "https://lnk.strainguide.app/banner-ilgm"
         }
       ],
       "autoPlay": true,
