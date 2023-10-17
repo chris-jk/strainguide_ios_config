@@ -890,30 +890,6 @@
         "iconSize": 20,
         "key": "kr72qonmst",
         "alignment": "center"
-      },
-      {
-        "marginRight": 16,
-        "marginLeft": 4,
-        "fontWeight": "400",
-        "pos": 500,
-        "paddingLeft": 4,
-        "key": "unk1xg9vr0",
-        "alignment": "center",
-        "paddingTop": 4,
-        "marginTop": 4,
-        "marginBottom": 4,
-        "iconSize": 20,
-        "backgroundColor": "a000000",
-        "paddingBottom": 4,
-        "radius": 100,
-        "size": 48,
-        "fontSize": 16,
-        "fontFamily": "CupertinoIcons",
-        "paddingRight": 4,
-        "type": "icon",
-        "action": "notification",
-        "textOpacity": 0.5,
-        "icon": "bell_solid"
       }
     ],
     "showOnScreens": [
