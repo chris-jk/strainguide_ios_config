@@ -23,7 +23,12 @@
         {
           "url": "https://lnk.strainguide.app/seeds",
           "padding": 0.5,
-          "image": "https://lnk.strainguide.app/banner-ilgm"
+          "image": "https://lnk.strainguide.app/seed-banner"
+        },
+        {
+          "url": "https://strainguide.app/chat",
+          "padding": 0.5,
+          "image": "https://strainguide.app/wp-content/uploads/app-banners/aibudtender.jpg"
         }
       ],
       "autoPlay": true,
