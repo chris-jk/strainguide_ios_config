@@ -21,20 +21,20 @@
       "fit": "cover",
       "items": [
         {
-          "url": "https://lnk.strainguide.app/seeds",
-          "padding": 0.5,
-          "image": "https://lnk.strainguide.app/seed-banner"
-        },
-        {
           "url": "https://strainguide.app/chat",
           "padding": 0.5,
           "image": "https://strainguide.app/wp-content/uploads/app-banners/aibudtender.jpg"
+        },
+        {
+          "url": "https://lnk.strainguide.app/seeds",
+          "padding": 0.5,
+          "image": "https://lnk.strainguide.app/seed-banner"
         }
       ],
       "autoPlay": true,
       "design": "default",
       "radius": 2.0,
-      "intervalTime": 8,
+      "intervalTime": 4,
       "pos": 100
     },
     {
