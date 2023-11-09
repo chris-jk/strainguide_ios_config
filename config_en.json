@@ -24,11 +24,6 @@
           "url": "https://strainguide.app/chat",
           "padding": 0.5,
           "image": "https://strainguide.app/wp-content/uploads/app-banners/aibudtender.jpg"
-        },
-        {
-          "url": "https://lnk.strainguide.app/seeds",
-          "padding": 0.5,
-          "image": "https://lnk.strainguide.app/seed-banner"
         }
       ],
       "autoPlay": true,
