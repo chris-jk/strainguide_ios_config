@@ -796,7 +796,7 @@
       "background": null,
       "subGeneralSetting": {
         "web-strain-bot": {
-          "webUrl": "https://botsrv2.com/qb/kushy/strainbot",
+          "webUrl": "https://strainguide.app/contact/",
           "webViewMode": true,
           "requiredLogin": false,
           "icon": "conversation_bubble",
@@ -812,7 +812,7 @@
           "iconFontFamily": "MaterialIcons"
         },
         "web-contact": {
-          "webUrl": "https://testin.formaloo.co/zm83b",
+          "webUrl": "https://strainguide.app/contact/",
           "webViewMode": true,
           "requiredLogin": false,
           "script": "document.getElementById('nav-mobile-nav').style.display = 'none';",
@@ -821,7 +821,7 @@
           "title": "Contact us"
         },
         "web-product-submission": {
-          "webUrl": "https://strainguide.app/product-submission",
+          "webUrl": "https://strainguide.app/contact/",
           "webViewMode": true,
           "requiredLogin": false,
           "script": "",
