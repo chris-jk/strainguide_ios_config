@@ -6,7 +6,7 @@
   },
   "mantisAds": {
     "show": true,
-    "code": "<html> <head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"/></head><body><div id=\"recommended\"></div><script type=\"text/javascript\">  var mantis = mantis || [];mantis.push(['recommend', 'load', {    property: '649cacb4c69fa0000fe67548',    render: 'recommended',    css: 'https://assets.mantisadnetwork.com/recommend.3columns.css'  }]);mantis.push(['display', 'refresh']);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/recommend.min.js\" async></script></body></html>",
+    "code": "<html><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"/></head><body><div id=\"recommended\"></div><script type=\"text/javascript\">  var mantis = mantis || [];mantis.push(['recommend', 'load', {    property: '649cacb4c69fa0000fe67548',    render: 'recommended',    css: 'https://assets.mantisadnetwork.com/recommend.3columns.css'  }]);mantis.push(['display', 'refresh']);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/recommend.min.js\" async></script></body></html>",
     "bannerHeight": 0.45
   },
   "HorizonLayout": [
@@ -43,7 +43,7 @@
     {
       "layout": "bannerMantisAds",
       "show": true,
-      "code": "<!DOCTYPE html><html><head><title>Strain Guide</title><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /><style>body, html {margin: 0;padding: 0;width: 100%;height: 100%;overflow-x: hidden;}.full-viewport {width: 100vw;height: auto;display: flex;justify-content: center;align-items: center;text-align: center;}</style></head><body><div class=\"full-viewport\"><div  data-mantis-zone=\"i1\"></div><div  data-mantis-zone=\"i2\"></div></div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || [];mantis.push(['display', 'load', { property: '649cacb4c69fa0000fe67548' }]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script></body></html>",
+      "code": "<!DOCTYPE html><html><head><title>Strain Guide</title><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /><style>body, html {margin: 0;padding: 0;width: 100%;height: 100%;overflow-x: hidden;}.full-viewport {width: 100vw;height: auto;display: flex;justify-content: center;align-items: center;text-align: center;}</style></head><body><div class=\"full-viewport\" data-mantis-zone=\"i1\"></div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || [];mantis.push(['display', 'load', { property: '649cacb4c69fa0000fe67548' }]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script></body><div class=\"full-viewport\" data-mantis-zone=\"i2\"></div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || [];mantis.push(['display', 'load', { property: '649cacb4c69fa0000fe67548' }]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script></body></html>",
       "bannerHeight": 0.15
     },
     {
@@ -57,9 +57,9 @@
     {
       "layout": "bannerMantisAds",
       "show": true,
+      "code": "<!DOCTYPE html><html><head><title>Strain Guide</title><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /><style>body, html {margin: 0;padding: 0;width: 100%;height: 100%;overflow-x: hidden;}.full-viewport {width: 100vw;height: auto;display: flex;justify-content: center;align-items: center;text-align: center;}</style></head><body><div class=\"full-viewport\" data-mantis-zone=\"i3\"></div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || [];mantis.push(['display', 'load', { property: '649cacb4c69fa0000fe67548' }]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script></body><div class=\"full-viewport\" data-mantis-zone=\"i4\"></div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || [];mantis.push(['display', 'load', { property: '649cacb4c69fa0000fe67548' }]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script></body></html>",
       "bannerHeight": 0.15
     },
-    "code": "<!DOCTYPE html><html><head><title>Strain Guide</title><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /><style>body, html {margin: 0;padding: 0;width: 100%;height: 100%;overflow-x: hidden;}.full-viewport {width: 100vw;height: auto;display: flex;justify-content: center;align-items: center;text-align: center;}</style></head><body><div class=\"full-viewport\"><div  data-mantis-zone=\"i3\"></div><div  data-mantis-zone=\"i4\"></div></div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || [];mantis.push(['display', 'load', { property: '649cacb4c69fa0000fe67548' }]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script></body></html>",
     {
       "name": "Strain for Relaxation",
       "image": "",
@@ -127,10 +127,10 @@
     {
       "layout": "bannerMantisAds",
       "show": true,
+      "code": "<!DOCTYPE html><html><head><title>Strain Guide</title><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /><style>body, html {margin: 0;padding: 0;width: 100%;height: 100%;overflow-x: hidden;}.full-viewport {width: 100vw;height: auto;display: flex;justify-content: center;align-items: center;text-align: center;}</style></head><body><div class=\"full-viewport\" data-mantis-zone=\"i5\"></div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || [];mantis.push(['display', 'load', { property: '649cacb4c69fa0000fe67548' }]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script></body><div class=\"full-viewport\" data-mantis-zone=\"i6\"></div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || [];mantis.push(['display', 'load', { property: '649cacb4c69fa0000fe67548' }]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script></body></html>",
       "bannerHeight": 0.15
     },
     {
-      "code": "<!DOCTYPE html><html><head><title>Strain Guide</title><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /><style>body, html {margin: 0;padding: 0;width: 100%;height: 100%;overflow-x: hidden;}.full-viewport {width: 100vw;height: auto;display: flex;justify-content: center;align-items: center;text-align: center;}</style></head><body><div class=\"full-viewport\"><div  data-mantis-zone=\"i5\"></div><div  data-mantis-zone=\"i6\"></div></div><script type=\"text/javascript\" data-cfasync=\"false\">var mantis = mantis || [];mantis.push(['display', 'load', { property: '649cacb4c69fa0000fe67548' }]);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/mantodea.min.js\" async></script></body></html>",
       "name": "All Strains",
       "image": "",
       "layout": "staggered",
