@@ -6,7 +6,7 @@
   },
   "mantisAds": {
     "show": true,
-    "code": "<html><head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"/></head><body><div id=\"recommended\"></div><script type=\"text/javascript\">  var mantis = mantis || [];mantis.push(['recommend', 'load', {    property: '649cacb4c69fa0000fe67548',    render: 'recommended',    css: 'https://assets.mantisadnetwork.com/recommend.3columns.css'  }]);mantis.push(['display', 'refresh']);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/recommend.min.js\" async></script></body></html>",
+    "code": "<html> <head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1, maximum-scale=1\"/></head><body><div id=\"recommended\"></div><script type=\"text/javascript\">  var mantis = mantis || [];mantis.push(['recommend', 'load', {    property: '649cacb4c69fa0000fe67548',    render: 'recommended',    css: 'https://assets.mantisadnetwork.com/recommend.3columns.css'  }]);mantis.push(['display', 'refresh']);</script><script type=\"text/javascript\" data-cfasync=\"false\" src=\"https://assets.mantisadnetwork.com/recommend.min.js\" async></script></body></html>",
     "bannerHeight": 0.45
   },
   "HorizonLayout": [
